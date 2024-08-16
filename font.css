@@ -1,0 +1,25 @@
+@font-face {
+    font-family: shabnam;
+    src: url(./fonts/Shabnam-Bold-WOL.eot) format(eot),url(./fonts/Shabnam-Bold-WOL.ttf) format(truetype),
+    url(./fonts/Shabnam-Bold-WOL.woff) format(woff),url(./fonts/Shabnam-Bold-WOL.woff2) format(woff);
+}
+@font-face {
+    font-family: shabnam;
+    src: url(./fonts/Shabnam-Light-WOL.eot) format(eot),url(./fonts/Shabnam-Light-WOL.ttf) format(truetype),
+    url(./fonts/Shabnam-Light-WOL.woff) format(woff),url(./fonts/Shabnam-Light-WOL.woff2)format(woff);
+}
+@font-face {
+    font-family: shabnam;
+    src: url(./fonts/Shabnam-Medium-WOL.eot) format(eot),url(./fonts/Shabnam-Medium-WOL.ttf) format(truetype),
+    url(./fonts/Shabnam-Medium-WOL.woff) format(woff),url(./fonts/Shabnam-Medium-WOL.woff2) format(woff);
+}
+@font-face {
+    font-family: shabnam;
+    src: url(./fonts/Shabnam-Thin-WOL.eot) format(eot),url(./fonts/Shabnam-Thin-WOL.ttf) format(truetype),
+    url(./fonts/Shabnam-Thin-WOL.woff) format(woff),url(./fonts/Shabnam-Thin-WOL.woff2) format(woff);
+}
+@font-face {
+    font-family: shabnam;
+    src: url(./fonts/Shabnam-WOL.eot) format(eot),url(./fonts/Shabnam-WOL.ttf) format(truetype),
+    url(./fonts/Shabnam-WOL.woff) format(woff), url(./fonts/Shabnam-WOL.woff2) format(woff);
+}
